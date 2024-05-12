@@ -1,0 +1,5 @@
+module.exports.authService = require('./auth.service')
+module.exports.tokenService = require('./token.service')
+module.exports.postService = require('./post.service')
+module.exports.likeService = require('./like.service')
+module.exports.userService = require('./user.service')
